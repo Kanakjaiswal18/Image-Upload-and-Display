@@ -1,14 +1,14 @@
-#Image Upload and Display
+# Image Upload and Display
 This is a website for uploading images to a server, storing their details in a MySQL database and providing options to view and delete the uploaded images. 
 Additionally, the website displays a table when upload is clicked, which containing the details of all the uploaded images.
 
-##Prerequisites
+## Prerequisites
 - PHP (version 7.0 or higher)
 - MySQL (version 5.6 or higher)
 - PhpXlsxGenerator Library
 - Create a "images" folder in the project directory to store uploaded images
 
-##MySQL Database
+## MySQL Database
 - Create a database named 'check':
   ```
   create a database named check
@@ -24,7 +24,7 @@ Additionally, the website displays a table when upload is clicked, which contain
   ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
   ```
 
-##File Structure
+## File Structure
 1. index.php
   This file contains the main HTML form for uploading images and PHP code for handling the file upload, storing image details in the database, and displaying the uploaded images in a table.
 
