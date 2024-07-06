@@ -76,9 +76,6 @@ if($query->num_rows > 0){
     } 
 } 
  
-//$xlsx = CodexWorld\PhpXlsxGenerator::fromArray( $excelData ); 
-//$xlsx->downloadAs($fileName); 
- 
 exit;
 
     } else {
