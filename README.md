@@ -1,4 +1,4 @@
-# Image Upload and Display
+# Image Upload and Display Website
 This is a website for uploading images to a server, storing their details in a MySQL database and providing options to view and delete the uploaded images. 
 Additionally, the website displays a table when upload is clicked, which containing the details of all the uploaded images.
 
