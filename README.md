@@ -25,14 +25,10 @@ Additionally, the website displays a table when upload is clicked, which contain
   ```
 
 ## File Structure
-1. index.php
-  This file contains the main HTML form for uploading images and PHP code for handling the file upload, storing image details in the database, and displaying the uploaded images in a table.
+1. index.php: contains the main HTML form for uploading images and PHP code for handling the file upload, storing image details in the database, and displaying the uploaded images in a table.
 
-2. delete.php
-  This file handles the deletion of images from the server and the database.
+2. delete.php: handles the deletion of images from the server and the database.
 
-3. connect.php
-  This file establishes a connection to the MySQL database.
+3. connect.php: establishes a connection to the MySQL database.
 
-4. PhpXlsxGenerator.php
-  This file is used to generate Excel files from the data stored in the database.
+4. PhpXlsxGenerator.php: used to generate Excel files from the data stored in the database.
