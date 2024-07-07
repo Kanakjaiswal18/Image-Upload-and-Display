@@ -5,7 +5,7 @@
 <body>
 
 <form action="index.php" enctype="multipart/form-data" method="post">
-<h2>Upload an image : </h2>
+<h1>Upload an image : </h1>
 <input type="file" name="file"><br/><br/>
 <input type="submit" value="Upload" name="Submit1"> <br/>
 
