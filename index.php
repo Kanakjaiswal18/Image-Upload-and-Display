@@ -1,6 +1,12 @@
 <html>
 <head>
 <title>File Upload</title>
+<style>
+body {
+    text-align: center;
+    margin-top: 50px;
+}
+</style>
 </head>
 <body>
 
