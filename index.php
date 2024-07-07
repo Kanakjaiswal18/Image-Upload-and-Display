@@ -11,12 +11,11 @@ body {
 <body>
 
 <form action="index.php" enctype="multipart/form-data" method="post">
-<h1>Upload an image : </h1>
+<h1>Uploaded Images Viewer</h1>
 <input type="file" name="file"><br/><br/>
 <input type="submit" value="Upload" name="Submit1"> <br/>
-
-
 </form>
+
 <?php
 include 'connect.php';
 require_once 'PhpXlsxGenerator.php';
